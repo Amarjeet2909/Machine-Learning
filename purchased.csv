@@ -1,0 +1,11 @@
+Customer,Age,Gender,Income,Purchased
+1,40-50,Male ,Low,0
+2,30-40,Female,Low,0
+3,40-50,Male ,High,1
+4,30-40,Female,Medium,1
+5,20-30,Female,Low,0
+6,20-30,Male ,Low,1
+7,30-40,Female,Medium,1
+8,30-40,Male ,High,1
+9,20-30,Male ,Medium,1
+10,40-50,Female,Low,0
